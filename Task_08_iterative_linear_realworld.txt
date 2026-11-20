@@ -1,0 +1,6 @@
+
+=== PART B: 2-D heated plate (8 x 8 interior grid) ===
+Jacobi: 237 iterations, max error vs direct solve 1.52e-05
+Gauss-Seidel: 124 iterations, max error vs direct solve 6.84e-06
+Hottest interior point: 77.35 C, coolest: 1.37 C
+Centre of the plate: 20.44 C

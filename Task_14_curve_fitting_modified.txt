@@ -1,0 +1,10 @@
+=== PART A: change the model and add an outlier ===
+model         RMSE (ms)    prediction at 400 users
+linear            18.83                  312.9 ms
+quadratic          1.55                  377.9 ms
+exponential        1.43                  400.4 ms
+
+Quadratic fit, a / b / c:
+  clean data     : [ 2.1700e-03 -1.3452e-01  8.5000e+01]
+  with an outlier: [ 6.8100000e-03 -1.5738100e+00  1.6857143e+02]
+  prediction at 400 users: 377.9 ms (clean) vs 628.6 ms (outlier)

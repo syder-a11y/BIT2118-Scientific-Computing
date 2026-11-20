@@ -1,0 +1,8 @@
+
+=== PART B: tiered transaction fees ===
+Both methods give the same fees: True
+Total transaction value: 829,993,321
+Total fees collected:    13,079,240
+Average fee per transaction: 13.08
+Fees as % of value moved: 1.576 %
+Loop time 0.128 s | vectorized 0.0177 s | speed-up 7.2x

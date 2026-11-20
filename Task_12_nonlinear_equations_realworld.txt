@@ -1,0 +1,11 @@
+
+=== PART B1: overlap of two tower coverage areas ===
+guess [3.0, 3.0]: edge point of the overlap = [3.75   3.3072] (residual 0.0e+00)
+guess [3.0, -3.0]: edge point of the overlap = [ 3.75   -3.3072] (residual 0.0e+00)
+Algebra check: x = 3.7500, y = +/-3.3072
+
+=== PART B2: cardboard box, 30 cm x 20 cm sheet ===
+All roots of the polynomial: [17.0711  5.      2.9289]
+  cut size 2.929 cm -> volume 1000.00 cm^3
+  cut size 5.000 cm -> volume 1000.00 cm^3
+Only 0 < x < 10 cm is physically possible (the sheet is 20 cm wide).

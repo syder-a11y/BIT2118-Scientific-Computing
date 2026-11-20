@@ -1,0 +1,16 @@
+
+=== PART B: motorbike acceleration from velocity data ===
+ t (s)  v (m/s)  a manual  a np.gradient
+     0      0.0      2.10           2.05
+     1      2.1      2.15           2.15
+     2      4.3      2.05           2.05
+     3      6.2      2.05           2.05
+     4      8.4      1.95           1.95
+     5     10.1      1.70           1.70
+     6     11.8      1.45           1.45
+     7     13.0      1.00           1.00
+     8     13.8      0.60           0.60
+     9     14.2      0.25           0.25
+    10     14.3      0.10          -0.05
+Peak acceleration 2.15 m/s^2 at t = 1 s
+Acceleration at the end of the run: 0.10 m/s^2 (bike is reaching top speed)

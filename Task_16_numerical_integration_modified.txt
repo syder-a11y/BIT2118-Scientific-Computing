@@ -1,0 +1,7 @@
+=== PART A: change the number of sample points ===
+ points   trapezoid error   Simpson error
+      3         4.292e-01       9.440e-02
+      5         1.039e-01       4.560e-03
+      9         2.577e-02       2.692e-04
+     17         6.430e-03       1.659e-05
+     33         1.607e-03       1.033e-06

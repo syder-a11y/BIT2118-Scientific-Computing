@@ -1,0 +1,7 @@
+
+=== PART B: adding 0.10 one million times (true total = 100000) ===
+method                   result   absolute error
+float64 loop      100000.000001         0.000001
+float32 loop      100958.343750       958.343750
+math.fsum         100000.000000         0.000000
+Decimal           100000.000000         0.000000

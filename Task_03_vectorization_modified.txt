@@ -1,0 +1,5 @@
+=== PART A: change N (number of readings) ===
+         N   loop (s)   vector (s)   speed-up
+   100,000     0.0130      0.00128      10.2x
+ 1,000,000     0.1416      0.00328      43.2x
+ 5,000,000     0.8059      0.02575      31.3x

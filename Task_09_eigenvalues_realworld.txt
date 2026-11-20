@@ -1,0 +1,18 @@
+
+=== PART B: PageRank for a five-page website ===
+
+damping factor d = 0.85: dominant eigenvalue = 1.000000 (should be 1)
+  Home     0.3312
+  Blog     0.2006
+  News     0.1807
+  Shop     0.1807
+  Contact  0.1068
+  power iteration agrees with eig: True (28 iterations)
+
+damping factor d = 0.5: dominant eigenvalue = 1.000000 (should be 1)
+  Home     0.2961
+  Blog     0.1948
+  News     0.1818
+  Shop     0.1818
+  Contact  0.1455
+  power iteration agrees with eig: True (19 iterations)

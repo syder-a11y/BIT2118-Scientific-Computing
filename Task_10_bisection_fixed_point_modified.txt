@@ -1,0 +1,12 @@
+=== PART A: change tau, the bracket and the rearrangement ===
+tau=  20, bracket=[20, 40]: root 27.525211 C in 38 bisection steps
+tau=  20, bracket=[27, 28]: root 27.525211 C in 34 bisection steps
+tau=  20, fixed point T=25+10exp(-T/tau): 27.525211 C in 13 steps
+tau=  10, bracket=[20, 40]: root 25.760722 C in 38 bisection steps
+tau=  10, bracket=[25, 26]: root 25.760722 C in 34 bisection steps
+tau=  10, fixed point T=25+10exp(-T/tau): 25.760722 C in 11 steps
+
+A different rearrangement of the SAME equation: T = -20 ln((T-25)/10)
+  step 1: T = 13.862943611198906
+  step 2: T = nan
+  -> the iteration has left the valid domain: it diverges

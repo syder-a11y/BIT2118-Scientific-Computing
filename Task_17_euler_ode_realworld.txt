@@ -1,0 +1,6 @@
+
+=== PART B: fish population in a pond (logistic growth) ===
+After 24 months: exact 998.71 | Euler h=1 month 999.53 | Euler h=0.1 month 998.81
+Largest error over the 24 months: h=1 -> 81.72 fish, h=0.1 -> 8.29 fish
+Time to reach half the capacity (500 fish): exact 7.36 months, Euler(h=0.1) 7.44
+Maximum growth rate 100 fish/month occurs at P = K/2 = 500

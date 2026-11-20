@@ -1,0 +1,7 @@
+
+=== PART B: delivery motorbike distance ===
+Distance by trapezoidal rule: 23.417 km
+Distance by Simpson's rule:   23.889 km
+Difference: 0.472 km
+Average speed over the hour: 23.42 km/h
+Time stationary (two consecutive zero readings): 5 minutes

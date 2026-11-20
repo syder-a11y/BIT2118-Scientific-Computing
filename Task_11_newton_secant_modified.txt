@@ -1,0 +1,10 @@
+=== PART A: change cash flows and starting guess ===
+original cash flows : IRR = 11.5425% (4 Newton iterations)
+last inflow cut to 1500: IRR = 8.2691% (4 Newton iterations)
+
+Effect of the starting guess (original cash flows):
+  x0 =  0.01: IRR = 11.5425% after 5 iterations
+  x0 =  0.10: IRR = 11.5425% after 4 iterations
+  x0 =  0.50: IRR = 11.5425% after 8 iterations
+  x0 =  1.50: did NOT find a valid root (Newton diverged, got -7.844009442137345e+307)
+  x0 = -0.50: IRR = 11.5425% after 9 iterations

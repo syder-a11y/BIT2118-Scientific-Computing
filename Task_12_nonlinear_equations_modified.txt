@@ -1,0 +1,10 @@
+=== PART A: circle x^2+y^2=4 and parabola y = x^2 - 3 ===
+guess [1.0, 1.0]: converged=True, point=[1.9021 0.618 ], max |residual|=4.8e-14
+guess [-1.0, 1.0]: converged=True, point=[-1.9021  0.618 ], max |residual|=4.8e-14
+guess [1.0, -1.0]: converged=True, point=[ 1.1756 -1.618 ], max |residual|=4.4e-16
+guess [-1.0, -1.0]: converged=True, point=[-1.1756 -1.618 ], max |residual|=8.9e-16
+guess [0.0, 0.0]: converged=True, point=[1.9021 0.618 ], max |residual|=8.7e-13
+Each of the first four guesses lands on a different intersection (four in total).
+The guess [0, 0] is a poor start (the Jacobian is singular there) but SciPy's hybrid
+solver still recovers and lands on just one of them - which point you get depends
+on where you start, so always try several guesses.

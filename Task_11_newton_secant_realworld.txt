@@ -1,0 +1,8 @@
+
+=== PART B: the real cost of a short-term loan ===
+Monthly rate (Newton): 2.075742% in 4 iterations
+Monthly rate (secant): 2.075742% in 6 iterations
+Nominal annual rate (12 x monthly): 24.91%
+Effective annual rate (compounded): 27.96%
+Total repaid 114,000 on a loan of 100,000: simple 'flat' cost = 14.0% - much lower than the true annual rate because the borrower keeps repaying the principal during the year.
+Check: NPV at the solution = -0.00000000

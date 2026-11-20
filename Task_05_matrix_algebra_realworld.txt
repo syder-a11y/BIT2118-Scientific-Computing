@@ -1,0 +1,18 @@
+
+=== PART B: robot footprint, homogeneous coordinates ===
+Combined 3x3 matrix:
+ [[ 0.866  -0.5     5.7679]
+ [ 0.5     0.866   1.134 ]
+ [ 0.      0.      1.    ]]
+Original corners:
+ [[0. 0.]
+ [4. 0.]
+ [2. 3.]]
+New corners:
+ [[5.7679 1.134 ]
+ [9.2321 3.134 ]
+ [6.     4.7321]]
+New centroid: [7. 3.] (expected [7. 3.])
+Side lengths before: [4.     3.6056 3.6056]
+Side lengths after:  [4.     3.6056 3.6056]
+Area before 6.000 m^2, after 6.000 m^2

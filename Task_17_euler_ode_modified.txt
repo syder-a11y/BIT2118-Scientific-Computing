@@ -1,0 +1,13 @@
+=== PART A: change the step size h (cooling, k = 0.12) ===
+ h (min)  Euler at 30 min      error
+    5.00          25.2662    1.50980
+    2.00          26.0595    0.71650
+    1.00          26.4041    0.37196
+    0.50          26.5870    0.18901
+    0.10          26.7378    0.03825
+    0.01          26.7722    0.00384
+Exact value: 26.7760 C. Halving h roughly halves the error (first-order method).
+
+Too-large step: stability limit is h < 2/k = 16.67 minutes
+  h = 10.0: temperatures [90.  12.  27.6 24.5 25.1 25.  25. ]
+  h = 20.0: temperatures [  90.   -66.   152.4 -153.4]

@@ -1,0 +1,8 @@
+
+=== PART B: Leontief input-output model ===
+Year 1: final demand [100. 150. 200.] -> gross output Agriculture=180.0, Manufacturing=278.9, Services=322.1
+        residual norm 0.00e+00, total output / total demand = 1.736
+Year 2: final demand [110. 160. 230.] -> gross output Agriculture=198.0, Manufacturing=301.6, Services=364.8
+        residual norm 2.84e-14, total output / total demand = 1.729
+Year 3: final demand [ 90. 190. 260.] -> gross output Agriculture=181.0, Manufacturing=343.9, Services=408.1
+        residual norm 0.00e+00, total output / total demand = 1.728

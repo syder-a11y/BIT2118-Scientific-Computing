@@ -1,0 +1,8 @@
+=== PART A: change the right-hand side / the matrix ===
+original totals (20 CPU, 72 GB): Type A = 3.000, Type B = 4.000
+new totals      (26 CPU, 84 GB): Type A = 4.500, Type B = 4.000
+-> the second answer is not a whole number of servers, so those totals cannot
+   come from real servers; the measurements must be wrong or incomplete.
+
+Determinant when the two server types look identical: 0.0
+np.linalg.solve failed: Singular matrix

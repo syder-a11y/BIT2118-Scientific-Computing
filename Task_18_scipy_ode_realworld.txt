@@ -1,0 +1,4 @@
+
+=== PART B: SIR epidemic in a town of 1000 people ===
+beta = 0.35 (R0 = 3.5): peak 357 infected at day 31.8; total ever infected 966 (96.6%); never infected 34
+beta = 0.20 (R0 = 2.0): peak 154 infected at day 67.5; total ever infected 797 (79.7%); never infected 203

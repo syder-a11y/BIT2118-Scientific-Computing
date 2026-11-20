@@ -1,0 +1,6 @@
+
+=== PART B: break-even sales ===
+Lower break-even: 218.80 units (35 bisection steps; brentq gives 218.80)
+Upper break-even: 18,281.20 units (44 bisection steps)
+Most profitable volume: 5,625 units, profit = 7,250
+Profit at 100 units: -1,200  |  at 400 units: 1,200

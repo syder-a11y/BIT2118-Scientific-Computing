@@ -1,0 +1,11 @@
+
+=== PART B: project completion time ===
+Planned time if everything goes as 'most likely': 25 days
+Simulated mean completion time: 28.67 days (std 3.64)
+  50% of simulated projects finish within 28.4 days
+  80% of simulated projects finish within 31.9 days
+  90% of simulated projects finish within 33.7 days
+  95% of simulated projects finish within 35.1 days
+Probability of finishing within 25 days: 16.23%
+Probability of finishing within 30 days: 65.60%
+Probability of finishing within 35 days: 94.76%

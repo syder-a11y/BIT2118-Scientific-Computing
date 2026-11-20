@@ -1,0 +1,9 @@
+
+=== PART B: logistic growth of app users ===
+Carrying capacity L = 116.9 +/- 0.6 thousand users
+Growth rate k = 0.649 +/- 0.007 per month
+Midpoint t0 = 6.32 +/- 0.02 months
+RMSE = 0.31 thousand, R^2 = 0.9999
+Forecast for month 11: 111.5 thousand users
+Forecast for month 12: 114.0 thousand users
+Forecast for month 18: 116.8 thousand users

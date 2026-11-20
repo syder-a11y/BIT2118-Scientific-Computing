@@ -1,0 +1,8 @@
+=== PART A: change R and C ===
+ R (ohm)    C (F)  tau=RC (s)  time to 63.2 % (s)  V at 1 s
+    1000   0.0010        1.00               1.000     3.161
+    1000   0.0002        0.20               0.200     4.966
+    2200   0.0010        2.20               2.199     1.826
+
+Discharging from 5 V (R=1000, C=0.001): voltage falls to 36.8 % at 1.000 s (tau = 1 s)
+Voltage after 5 s of discharge: 0.0337 V

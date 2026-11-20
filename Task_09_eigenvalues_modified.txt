@@ -1,0 +1,4 @@
+=== PART A: change the links ===
+original network                       dominant eigenvalue 2.5616 | importance {'A': 0.2192, 'B': 0.2808, 'C': 0.2808, 'D': 0.2192}
+link B-C removed                       dominant eigenvalue 2.0000 | importance {'A': 0.25, 'B': 0.25, 'C': 0.25, 'D': 0.25}
+link A-D added (everyone connected)    dominant eigenvalue 3.0000 | importance {'A': 0.25, 'B': 0.25, 'C': 0.25, 'D': 0.25}

@@ -1,0 +1,6 @@
+
+=== PART B: river gauge with a missing reading ===
+True level at 12:00:        3.5098 m
+Linear estimate:            3.2140 m  (error 0.2958 m)
+Cubic spline estimate:      3.4837 m  (error 0.0261 m)
+RMSE over the whole day (every 6 min): linear 0.1140 m | cubic 0.0093 m

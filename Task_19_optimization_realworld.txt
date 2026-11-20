@@ -1,0 +1,9 @@
+
+=== PART B: bakery product mix ===
+Optimum (SLSQP): 30.00 loaves, 70.00 cakes, daily profit 3510.00
+Flour used 85.0 / 100 kg | labour used 24.0 / 24 h | cakes 70.0 / 70
+Cross-check with linprog: [30. 70.], profit 3510.00
+Brute-force whole-number check (profit, loaves, cakes): (3510, 30, 70)
+  only loaves     [200, 0]: profit 2400, feasible: True
+  only cakes      [0, 70]: profit 3150, feasible: True
+  balanced guess  [120, 40]: profit 3240, feasible: True

@@ -1,0 +1,4 @@
+=== PART A: fewer measurements ===
+hourly data      10:30 -> linear 23.25 C | cubic 23.36 C
+two-hourly data  10:30 -> linear 23.12 C | cubic 23.33 C
+(reference: cubic spline on the full hourly data = 23.36 C)

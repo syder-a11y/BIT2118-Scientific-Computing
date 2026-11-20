@@ -1,0 +1,22 @@
+=== PART A: change angle, scale and order ===
+original  (45 deg, scale 2 x 1.5)
+  det = 3.000, new area = 3.000
+  transformed corners:
+ [[ 0.     0.   ]
+ [ 1.414  1.414]
+ [ 0.354  2.475]
+ [-1.061  1.061]]
+rotate 90 deg only (scale 1 x 1)
+  det = 1.000, new area = 1.000
+  transformed corners:
+ [[ 0.  0.]
+ [ 0.  1.]
+ [-1.  1.]
+ [-1.  0.]]
+scale first, rotate second
+  det = 3.000, new area = 3.000
+  transformed corners:
+ [[ 0.     0.   ]
+ [ 1.414  1.061]
+ [ 0.     2.121]
+ [-1.414  1.061]]

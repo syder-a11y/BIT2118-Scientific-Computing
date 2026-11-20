@@ -1,0 +1,6 @@
+=== PART A: change cost and required capacity ===
+ cost A  cost B  capacity |      A      B    cost | whole servers (cost, A, B)
+     12      18      1000 |   0.00   5.88  105.88 | (108, 0, 6)
+     12      18      1500 |   0.00   8.82  158.82 | (162, 0, 9)
+      9      18      1000 |  10.00   0.00   90.00 | (90, 10, 0)
+Cost per unit of capacity: A = 0.12  B = 0.1059 -> the cheaper capacity wins, and it switches to A when A costs 9.

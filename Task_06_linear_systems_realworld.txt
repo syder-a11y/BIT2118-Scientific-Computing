@@ -1,0 +1,8 @@
+
+=== PART B: three-loop circuit (mesh-current analysis) ===
+Mesh currents (A): [ 0.96652  0.24977 -0.20633]
+Residual norm: 1.1657341758564144e-15
+Condition number of A: 4.21
+Current through shared resistor R2 (I1 - I2): 0.71674 A
+Current through shared resistor R4 (I2 - I3): 0.45611 A
+Power delivered by source 1: 23.1964 W
